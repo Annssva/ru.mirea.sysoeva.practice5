@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/drawable/ic_menu_audio.xml" value="0.1" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/drawable/ic_menu_sensors.xml" value="0.1" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/layout/fragment_audio.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/layout/fragment_photo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/layout/fragment_sensor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/curly/rumireasysoevapractice5/MireaProject/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/curly/rumireasysoevapractice5/accelerometer/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/curly/rumireasysoevapractice5/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/curly/rumireasysoevapractice5/audiorecord/src/main/res/layout/activity_main.xml" value="0.264" />
